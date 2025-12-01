@@ -19,7 +19,7 @@ Modify existing entries
 
 File-based storage using .dir files
 
-🚀 Features
+# 🚀 Features
 🔐 Authentication System
 
 Sign-Up creates new account stored in Accounts.dir
@@ -30,7 +30,7 @@ Special admin usernames: Admin or admin
 
 Admin passwords: Root or root
 
-📚 Directory Features
+# 📚 Directory Features
 
 Add contact: First name, Last name, Phone number
 
@@ -42,7 +42,7 @@ Modify existing contact
 
 Stores all data in Directory.dir via file I/O
 
-💾 File Handling
+# 💾 File Handling
 
 Uses:
 
@@ -66,7 +66,7 @@ Windows-specific libraries:
 
 <windows.h>
 
-📂 How to Run
+# 📂 How to Run
 
 Install any C++ compiler (CodeBlocks, Dev C++, MinGW, VSCode with C++ extension).
 
@@ -74,7 +74,7 @@ Create a project and add telephone-directory.cpp to it.
 
 Build & run.
 
-📘 Learning Outcomes
+# 📘 Learning Outcomes
 
 File handling in C++
 
